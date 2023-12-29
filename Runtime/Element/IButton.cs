@@ -1,6 +1,7 @@
-namespace EnaKit.UI;
-
-public interface IButton
+namespace EnaKit.UI
 {
+    public interface IButton
+    {
     
+    }
 }

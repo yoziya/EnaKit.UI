@@ -37,6 +37,6 @@ namespace EnaKit.UI
         
         IUIElement[] GetUIElement(string UIElementName);
         
-        IUIForm[] GetAllUIForms();
+        IUIElement[] GetAllUIElements();
     }
 }
